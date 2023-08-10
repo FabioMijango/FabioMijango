@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FabioMijango
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning c++
-- 📫 How to reach me? Send $5 to my paypal.me/fabiomijango
+- 📫 How to reach me? Message me :D
 
 <!---
 FabioMijango/FabioMijango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
