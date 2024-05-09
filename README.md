@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FabioMijango
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Kotlin/Jetpack Compose, JS
 - 📫 How to reach me? Message me :D
 
 <!---
