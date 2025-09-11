@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Fabio Mijango, from El Salvador 🇸🇻<br><br>🌱 Learning Godot and C++.<br>📚 Currently in my fourth year in Informatic Ingenier.<br>✨ Creating bugs and spaguetti code since 2022.<br>🌐 Backend Development<br>🤝 Ask me for proyects or collab.<br>🤖 Professional in Chat GPT. <br>🎮 Videogame's lover.</p>
+<p align="left">I'm Fabio Mijango, from El Salvador 🇸🇻<br><br>🌱 Learning Java with Springboot and C++ with SFML.<br>📚 Currently in my fourth year in Informatic Ingenier.<br>✨ Creating bugs and spaguetti code since 2022.<br>🌐 Backend Development<br>🤝 Ask me for proyects or collab.<br>🤖 Professional in Chat GPT. <br>🎮 Videogame's lover.</p>
 
 ###
 
